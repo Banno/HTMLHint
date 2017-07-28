@@ -54,7 +54,7 @@ module.exports = function(grunt) {
                     }
                 },
                 files: {
-                    'lib/<%= pkg.name %>.js': ['<%= concat.htmlhint.dest %>']
+                    'lib/htmlhint.js': ['<%= concat.htmlhint.dest %>']
                 }
             }
         },

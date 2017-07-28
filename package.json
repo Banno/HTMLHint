@@ -1,5 +1,5 @@
 {
-  "name": "htmlhint",
+  "name": "banno-htmlhint",
   "version": "0.9.14",
   "description": "A Static Code Analysis Tool for HTML",
   "main": "./index",
@@ -36,10 +36,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/yaniswang/HTMLHint.git"
+    "url": "git://github.com/banno/HTMLHint.git"
   },
   "bugs": {
-    "url": "https://github.com/yaniswang/HTMLHint/issues"
+    "url": "https://github.com/banno/HTMLHint/issues"
   },
   "keywords": [
     "html",
